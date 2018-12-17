@@ -1,10 +1,10 @@
 # College Course Wiki
-![logo](https://avatars1.githubusercontent.com/u/14171097?v=4&s=200 "Logo")
+![logo](https://raw.githubusercontent.com/bfinan/CCW/master/biz/logo_524.png)
 
 # Content
 - [Welcome](#welcome)
-  - [Available Skills](#available-skills)
-  - [How to Submit a Skill](#how-to-submit-a-skill)
+  - [Overview](#available-skills)
+  - [How to Contribute](#how-to-submit-a-skill)
     - [1) Make a Repo](#1-make-a-repo)
     - [2) Clone Repo](#2-clone-repo)
     - [3) Generate Readme](#3-generate-readme)
@@ -17,8 +17,6 @@
 
 # Welcome
 
-
-## Available Skills
 
 ## How to Contribute
 
