@@ -1,5 +1,5 @@
 # College Course Wiki
-![logo](https://raw.githubusercontent.com/bfinan/CCW/master/biz/logo/logo_128b.png)   
+![logo](https://raw.githubusercontent.com/bfinan/CCW/master/biz/logo/logo_128b.png)
 [![](https://discordapp.com/api/guilds/524120230914424832/embed.png?style=banner1)](https://discord.gg/URWrSBs)
 
 # Content
