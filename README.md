@@ -28,7 +28,4 @@ CCW needs college transcripts in order to provide students with insights. If you
 Coming soon.
 
 ### 4) Contribute to development
-Create the skill in a repo under your own Github user account.  You can follow the guide at [How To Make a Repo](https://help.github.com/articles/create-a-repo/), or use the [skiller.sh script](https://github.com/MycroftAI/mycroft-core/blob/dev/skiller.sh).
-
-
-Clone the CCW repo to a local directory, [How To Clone](https://help.github.com/articles/cloning-a-repository) if you are unfamiliar with the process.
+Clone the CCW repo to a local directory, [How To Clone](https://help.github.com/articles/cloning-a-repository) if you are unfamiliar with the process. Submit a pull request or post on the Discord to have your changes approved.
