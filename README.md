@@ -1,6 +1,6 @@
 # College Course Wiki
-![logo](https://raw.githubusercontent.com/bfinan/CCW/master/biz/logo/logo_128b.png)
-[![](https://discordapp.com/api/guilds/81384788765712384/embed.png?style=banner1)](https://discord.gg/CollegeCourseWiki)
+![logo](https://raw.githubusercontent.com/bfinan/CCW/master/biz/logo/logo_128b.png)        
+[![](https://discordapp.com/api/guilds/81384788765712384/embed.png?style=banner1)](https://discord.gg/URWrSBs)
 
 # Content
 - [Welcome](#welcome)
