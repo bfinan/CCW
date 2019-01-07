@@ -1,4 +1,5 @@
 import re
+import Take
 path = "/home/you/CCW/anonymized_transcript.txt"
 
 with open(path, "r") as reader:
@@ -6,13 +7,6 @@ with open(path, "r") as reader:
 
 course_number = re.compile(r'\dT?\d\d')
 semester_string = re.compile(r'((FALL|SPRING|SUMMER) \d\d\d\d)|TRANSFER')
-
-class Take:
-    def __init__(self):
-        self.dept = "NODEPT"
-        self.number = "999"
-        self.name = "UNDERWATER BASKETWEAVING"
-        self.credits = 100.5
 
 
 def is_a_take(transcript_line):
